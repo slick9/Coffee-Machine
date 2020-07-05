@@ -3,9 +3,7 @@
 package machine;
 import java.util.Scanner;
 import machine.CoffeeConstants.*;
-import machine.MenuState;
-
-import static machine.MenuState.*;
+import machine.MenuState.*;
 
 public class CoffeeMachine {
     Scanner scanner = new Scanner(System.in);
